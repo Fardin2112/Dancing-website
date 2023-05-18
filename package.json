@@ -1,0 +1,17 @@
+{
+  "name": "dance-group",
+  "version": "1.0.0",
+  "description": "this dance group is become for join all students in meet with new friends",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fardin Alam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.1",
+    "pug": "^3.0.2"
+  }
+}
